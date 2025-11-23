@@ -1,0 +1,1005 @@
+{
+  "patients": [
+    {
+      "id": "P001",
+      "full_name": "Иванов Петр Сергеевич",
+      "age": 24,
+      "sex": "male",
+      "weight_kg": 78,
+      "height_cm": 180,
+      "chronic_diseases": ["Гастрит", "Вегетососудистая дистония"],
+      "contacts": {
+        "phone": "+7 (912) 345-67-89",
+        "email": "p.ivanov@mail.ru"
+      },
+      "address": {
+        "city": "Пермь",
+        "district": "Индустриальный",
+        "street": "ул. Ленина",
+        "house": "15",
+        "apartment": "42"
+      }
+    },
+    {
+      "id": "P002",
+      "full_name": "Смирнова Анна Владимировна",
+      "age": 67,
+      "sex": "female",
+      "weight_kg": 82,
+      "height_cm": 162,
+      "chronic_diseases": ["Гипертония", "Артрит", "Варикозное расширение вен"],
+      "contacts": {
+        "phone": "+7 (905) 123-45-67",
+        "email": "anna.smirnova@yandex.ru"
+      },
+      "address": {
+        "city": "Пермь",
+        "district": "Свердловский",
+        "street": "пр-т Мира",
+        "house": "34",
+        "apartment": "12"
+      }
+    },
+    {
+      "id": "P003",
+      "full_name": "Петров Дмитрий Александрович",
+      "age": 32,
+      "sex": "male",
+      "weight_kg": 115,
+      "height_cm": 178,
+      "chronic_diseases": ["Гипертония", "Ожирение", "Жировой гепатоз"],
+      "contacts": {
+        "phone": "+7 (916) 789-01-23",
+        "email": "d.petrov@gmail.com"
+      },
+      "address": {
+        "city": "Пермь",
+        "district": "Ленинский",
+        "street": "ул. Гагарина",
+        "house": "8",
+        "apartment": "56"
+      }
+    },
+    {
+      "id": "P004",
+      "full_name": "Кузнецова Елена Ивановна",
+      "age": 45,
+      "sex": "female",
+      "weight_kg": 68,
+      "height_cm": 165,
+      "chronic_diseases": ["Мигрень", "Остеохондроз"],
+      "contacts": {
+        "phone": "+7 (903) 456-78-90",
+        "email": "e.kuznetsova@mail.ru"
+      },
+      "address": {
+        "city": "Пермь",
+        "district": "Мотовилихинский",
+        "street": "ул. Пушкина",
+        "house": "22",
+        "apartment": "7"
+      }
+    },
+    {
+      "id": "P005",
+      "full_name": "Соколов Михаил Николаевич",
+      "age": 72,
+      "sex": "male",
+      "weight_kg": 88,
+      "height_cm": 175,
+      "chronic_diseases": ["Гипертония", "ИБС", "Хронический бронхит", "Остеопороз", "Простатит"],
+      "contacts": {
+        "phone": "+7 (917) 234-56-78",
+        "email": "m.sokolov@yandex.ru"
+      },
+      "address": {
+        "city": "Пермь",
+        "district": "Дзержинский",
+        "street": "ул. Чехова",
+        "house": "45",
+        "apartment": "89"
+      }
+    },
+    {
+      "id": "P006",
+      "full_name": "Морозова Ольга Петровна",
+      "age": 28,
+      "sex": "female",
+      "weight_kg": 50,
+      "height_cm": 168,
+      "chronic_diseases": ["Астма"],
+      "contacts": {
+        "phone": "+7 (909) 345-67-12",
+        "email": "o.morozova@gmail.com"
+      },
+      "address": {
+        "city": "Пермь",
+        "district": "Свердловский",
+        "street": "ул. Горького",
+        "house": "11",
+        "apartment": "23"
+      }
+    },
+    {
+      "id": "P007",
+      "full_name": "Волков Алексей Дмитриевич",
+      "age": 55,
+      "sex": "male",
+      "weight_kg": 102,
+      "height_cm": 182,
+      "chronic_diseases": ["Гипертония", "Сахарный диабет 2 типа", "Варикозное расширение вен", "Остеохондроз"],
+      "contacts": {
+        "phone": "+7 (915) 678-90-12",
+        "email": "a.volkov@mail.ru"
+      },
+      "address": {
+        "city": "Пермь",
+        "district": "Ленинский",
+        "street": "Ленинский пр-т",
+        "house": "67",
+        "apartment": "134"
+      }
+    },
+    {
+      "id": "P008",
+      "full_name": "Новикова Мария Сергеевна",
+      "age": 19,
+      "sex": "female",
+      "weight_kg": 48,
+      "height_cm": 163,
+      "chronic_diseases": ["Анемия", "Вегетососудистая дистония"],
+      "contacts": {
+        "phone": "+7 (926) 123-45-67",
+        "email": "m.novikova@yandex.ru"
+      },
+      "address": {
+        "city": "Пермь",
+        "district": "Кировский",
+        "street": "ул. Молодежная",
+        "house": "3",
+        "apartment": "18"
+      }
+    },
+    {
+      "id": "P009",
+      "full_name": "Федоров Игорь Викторович",
+      "age": 38,
+      "sex": "male",
+      "weight_kg": 125,
+      "height_cm": 185,
+      "chronic_diseases": ["Ожирение", "Гипертония", "Жировой гепатоз", "Апноэ сна"],
+      "contacts": {
+        "phone": "+7 (910) 987-65-43",
+        "email": "i.fedorov@gmail.com"
+      },
+      "address": {
+        "city": "Пермь",
+        "district": "Ленинский",
+        "street": "ул. Строителей",
+        "house": "29",
+        "apartment": "76"
+      }
+    },
+    {
+      "id": "P010",
+      "full_name": "Васильева Татьяна Александровна",
+      "age": 63,
+      "sex": "female",
+      "weight_kg": 95,
+      "height_cm": 160,
+      "chronic_diseases": ["Гипертония", "Сахарный диабет 2 типа", "Артроз"],
+      "contacts": {
+        "phone": "+7 (913) 456-78-23",
+        "email": "t.vasilieva@mail.ru"
+      },
+      "address": {
+        "city": "Пермь",
+        "district": "Орджоникидзевский",
+        "street": "ул. Садовая",
+        "house": "51",
+        "apartment": "4"
+      }
+    },
+    {
+      "id": "P011",
+      "full_name": "Попов Сергей Андреевич",
+      "age": 41,
+      "sex": "male",
+      "weight_kg": 85,
+      "height_cm": 177,
+      "chronic_diseases": ["Язвенная болезнь желудка", "Гастрит", "Остеохондроз"],
+      "contacts": {
+        "phone": "+7 (918) 234-56-89",
+        "email": "s.popov@yandex.ru"
+      },
+      "address": {
+        "city": "Пермь",
+        "district": "Индустриальный",
+        "street": "ул. Кирова",
+        "house": "18",
+        "apartment": "91"
+      }
+    },
+    {
+      "id": "P012",
+      "full_name": "Лебедева Наталья Викторовна",
+      "age": 29,
+      "sex": "female",
+      "weight_kg": 64,
+      "height_cm": 170,
+      "chronic_diseases": ["Хронический цистит"],
+      "contacts": {
+        "phone": "+7 (925) 345-67-90",
+        "email": "n.lebedeva@gmail.com"
+      },
+      "address": {
+        "city": "Пермь",
+        "district": "Свердловский",
+        "street": "ул. Космонавтов",
+        "house": "7",
+        "apartment": "35"
+      }
+    },
+    {
+      "id": "P013",
+      "full_name": "Козлов Владимир Петрович",
+      "age": 70,
+      "sex": "male",
+      "weight_kg": 76,
+      "height_cm": 172,
+      "chronic_diseases": ["Гипертония", "ИБС", "Простатит", "Катаракта", "Остеопороз", "Хронический бронхит"],
+      "contacts": {
+        "phone": "+7 (914) 678-90-45",
+        "email": "v.kozlov@mail.ru"
+      },
+      "address": {
+        "city": "Пермь",
+        "district": "Дзержинский",
+        "street": "ул. Победы",
+        "house": "38",
+        "apartment": "2"
+      }
+    },
+    {
+      "id": "P014",
+      "full_name": "Орлова Екатерина Дмитриевна",
+      "age": 35,
+      "sex": "female",
+      "weight_kg": 110,
+      "height_cm": 166,
+      "chronic_diseases": ["Ожирение", "Гипертония", "Поликистоз яичников"],
+      "contacts": {
+        "phone": "+7 (906) 789-01-34",
+        "email": "e.orlova@yandex.ru"
+      },
+      "address": {
+        "city": "Пермь",
+        "district": "Ленинский",
+        "street": "ул. Маяковского",
+        "house": "14",
+        "apartment": "67"
+      }
+    },
+    {
+      "id": "P015",
+      "full_name": "Николаев Андрей Сергеевич",
+      "age": 22,
+      "sex": "male",
+      "weight_kg": 72,
+      "height_cm": 183,
+      "chronic_diseases": ["Гастрит"],
+      "contacts": {
+        "phone": "+7 (919) 123-45-78",
+        "email": "a.nikolaev@gmail.com"
+      },
+      "address": {
+        "city": "Пермь",
+        "district": "Мотовилихинский",
+        "street": "ул. Студенческая",
+        "house": "9",
+        "apartment": "44"
+      }
+    },
+    {
+      "id": "P016",
+      "full_name": "Степанова Ирина Олеговна",
+      "age": 58,
+      "sex": "female",
+      "weight_kg": 78,
+      "height_cm": 164,
+      "chronic_diseases": ["Гипертония", "Остеоартроз"],
+      "contacts": {
+        "phone": "+7 (911) 456-78-01",
+        "email": "i.stepanova@mail.ru"
+      },
+      "address": {
+        "city": "Пермь",
+        "district": "Ленинский",
+        "street": "ул. Тверская",
+        "house": "25",
+        "apartment": "108"
+      }
+    },
+    {
+      "id": "P017",
+      "full_name": "Зайцев Максим Владимирович",
+      "age": 44,
+      "sex": "male",
+      "weight_kg": 118,
+      "height_cm": 179,
+      "chronic_diseases": ["Ожирение", "Гипертония", "Подагра", "Остеохондроз", "Жировой гепатоз"],
+      "contacts": {
+        "phone": "+7 (920) 567-89-12",
+        "email": "m.zaitsev@yandex.ru"
+      },
+      "address": {
+        "city": "Пермь",
+        "district": "Свердловский",
+        "street": "ул. Заречная",
+        "house": "41",
+        "apartment": "15"
+      }
+    },
+    {
+      "id": "P018",
+      "full_name": "Романова Светлана Ивановна",
+      "age": 26,
+      "sex": "female",
+      "weight_kg": 49,
+      "height_cm": 167,
+      "chronic_diseases": ["Вегетососудистая дистония", "Мигрень"],
+      "contacts": {
+        "phone": "+7 (927) 678-90-23",
+        "email": "s.romanova@gmail.com"
+      },
+      "address": {
+        "city": "Пермь",
+        "district": "Кировский",
+        "street": "ул. Цветочная",
+        "house": "6",
+        "apartment": "29"
+      }
+    },
+    {
+      "id": "P019",
+      "full_name": "Григорьев Николай Павлович",
+      "age": 75,
+      "sex": "male",
+      "weight_kg": 81,
+      "height_cm": 170,
+      "chronic_diseases": ["Гипертония", "ИБС", "Сахарный диабет 2 типа", "Хроническая почечная недостаточность", "Глаукома", "Простатит"],
+      "contacts": {
+        "phone": "+7 (904) 789-01-45",
+        "email": "n.grigoriev@mail.ru"
+      },
+      "address": {
+        "city": "Пермь",
+        "district": "Дзержинский",
+        "street": "ул. Советская",
+        "house": "52",
+        "apartment": "3"
+      }
+    },
+    {
+      "id": "P020",
+      "full_name": "Павлова Анастасия Сергеевна",
+      "age": 31,
+      "sex": "female",
+      "weight_kg": 61,
+      "height_cm": 169,
+      "chronic_diseases": ["Хронический цистит", "Вегетососудистая дистония"],
+      "contacts": {
+        "phone": "+7 (928) 890-12-34",
+        "email": "a.pavlova@yandex.ru"
+      },
+      "address": {
+        "city": "Пермь",
+        "district": "Орджоникидзевский",
+        "street": "ул. Парковая",
+        "house": "19",
+        "apartment": "52"
+      }
+    },
+    {
+      "id": "P021",
+      "full_name": "Семенов Артем Олегович",
+      "age": 18,
+      "sex": "male",
+      "weight_kg": 58,
+      "height_cm": 176,
+      "chronic_diseases": ["Астма", "Вегетососудистая дистония"],
+      "contacts": {
+        "phone": "+7 (921) 901-23-45",
+        "email": "a.semenov@gmail.com"
+      },
+      "address": {
+        "city": "Пермь",
+        "district": "Индустриальный",
+        "street": "ул. Школьная",
+        "house": "2",
+        "apartment": "11"
+      }
+    },
+    {
+      "id": "P022",
+      "full_name": "Борисова Валентина Николаевна",
+      "age": 69,
+      "sex": "female",
+      "weight_kg": 89,
+      "height_cm": 158,
+      "chronic_diseases": ["Гипертония", "Остеопороз", "Артроз", "Тиреоидит"],
+      "contacts": {
+        "phone": "+7 (907) 012-34-56",
+        "email": "v.borisova@mail.ru"
+      },
+      "address": {
+        "city": "Пермь",
+        "district": "Мотовилихинский",
+        "street": "ул. Набережная",
+        "house": "27",
+        "apartment": "46"
+      }
+    },
+    {
+      "id": "P023",
+      "full_name": "Макаров Денис Александрович",
+      "age": 37,
+      "sex": "male",
+      "weight_kg": 92,
+      "height_cm": 181,
+      "chronic_diseases": ["Хронический панкреатит", "Гастрит"],
+      "contacts": {
+        "phone": "+7 (922) 123-45-89",
+        "email": "d.makarov@yandex.ru"
+      },
+      "address": {
+        "city": "Пермь",
+        "district": "Ленинский",
+        "street": "ул. Центральная",
+        "house": "33",
+        "apartment": "78"
+      }
+    },
+    {
+      "id": "P024",
+      "full_name": "Королева Дарья Викторовна",
+      "age": 48,
+      "sex": "female",
+      "weight_kg": 105,
+      "height_cm": 162,
+      "chronic_diseases": ["Ожирение", "Гипертония", "Холецистит"],
+      "contacts": {
+        "phone": "+7 (929) 234-56-01",
+        "email": "d.koroleva@gmail.com"
+      },
+      "address": {
+        "city": "Пермь",
+        "district": "Свердловский",
+        "street": "ул. Лесная",
+        "house": "16",
+        "apartment": "93"
+      }
+    },
+    {
+      "id": "P025",
+      "full_name": "Соловьев Константин Игоревич",
+      "age": 23,
+      "sex": "male",
+      "weight_kg": 75,
+      "height_cm": 184,
+      "chronic_diseases": ["Остеохондроз"],
+      "contacts": {
+        "phone": "+7 (908) 345-67-23",
+        "email": "k.soloviev@mail.ru"
+      },
+      "address": {
+        "city": "Пермь",
+        "district": "Кировский",
+        "street": "ул. Речная",
+        "house": "5",
+        "apartment": "21"
+      }
+    },
+    {
+      "id": "P026",
+      "full_name": "Фролова Людмила Петровна",
+      "age": 65,
+      "sex": "female",
+      "weight_kg": 84,
+      "height_cm": 161,
+      "chronic_diseases": ["Гипертония", "ИБС", "Тиреоидит"],
+      "contacts": {
+        "phone": "+7 (930) 456-78-34",
+        "email": "l.frolova@yandex.ru"
+      },
+      "address": {
+        "city": "Пермь",
+        "district": "Дзержинский",
+        "street": "ул. Октябрьская",
+        "house": "44",
+        "apartment": "5"
+      }
+    },
+    {
+      "id": "P027",
+      "full_name": "Тихонов Евгений Николаевич",
+      "age": 52,
+      "sex": "male",
+      "weight_kg": 108,
+      "height_cm": 176,
+      "chronic_diseases": ["Ожирение", "Гипертония", "Сахарный диабет 2 типа", "Остеохондроз"],
+      "contacts": {
+        "phone": "+7 (923) 567-89-45",
+        "email": "e.tikhonov@gmail.com"
+      },
+      "address": {
+        "city": "Пермь",
+        "district": "Орджоникидзевский",
+        "street": "ул. Комсомольская",
+        "house": "30",
+        "apartment": "112"
+      }
+    },
+    {
+      "id": "P028",
+      "full_name": "Белова Юлия Дмитриевна",
+      "age": 27,
+      "sex": "female",
+      "weight_kg": 59,
+      "height_cm": 171,
+      "chronic_diseases": ["Мигрень"],
+      "contacts": {
+        "phone": "+7 (931) 678-90-56",
+        "email": "yu.belova@mail.ru"
+      },
+      "address": {
+        "city": "Пермь",
+        "district": "Ленинский",
+        "street": "ул. Весенняя",
+        "house": "12",
+        "apartment": "38"
+      }
+    },
+    {
+      "id": "P029",
+      "full_name": "Михайлов Роман Викторович",
+      "age": 42,
+      "sex": "male",
+      "weight_kg": 87,
+      "height_cm": 180,
+      "chronic_diseases": ["Псориаз", "Остеохондроз", "Гастрит"],
+      "contacts": {
+        "phone": "+7 (924) 789-01-67",
+        "email": "r.mikhailov@yandex.ru"
+      },
+      "address": {
+        "city": "Пермь",
+        "district": "Индустриальный",
+        "street": "ул. Солнечная",
+        "house": "21",
+        "apartment": "64"
+      }
+    },
+    {
+      "id": "P030",
+      "full_name": "Захарова Марина Александровна",
+      "age": 73,
+      "sex": "female",
+      "weight_kg": 77,
+      "height_cm": 159,
+      "chronic_diseases": ["Гипертония", "ИБС", "Остеопороз", "Катаракта"],
+      "contacts": {
+        "phone": "+7 (909) 890-12-78",
+        "email": "m.zakharova@mail.ru"
+      },
+      "address": {
+        "city": "Пермь",
+        "district": "Свердловский",
+        "street": "ул. Мирная",
+        "house": "49",
+        "apartment": "8"
+      }
+    },
+    {
+      "id": "P031",
+      "full_name": "Крылов Игорь Петрович",
+      "age": 39,
+      "sex": "male",
+      "weight_kg": 122,
+      "height_cm": 187,
+      "chronic_diseases": ["Ожирение", "Гипертония", "Апноэ сна", "Жировой гепатоз"],
+      "contacts": {
+        "phone": "+7 (932) 901-23-89",
+        "email": "i.krylov@gmail.com"
+      },
+      "address": {
+        "city": "Пермь",
+        "district": "Мотовилихинский",
+        "street": "ул. Дружбы",
+        "house": "8",
+        "apartment": "101"
+      }
+    },
+    {
+      "id": "P032",
+      "full_name": "Егорова Алина Сергеевна",
+      "age": 20,
+      "sex": "female",
+      "weight_kg": 47,
+      "height_cm": 165,
+      "chronic_diseases": ["Анемия"],
+      "contacts": {
+        "phone": "+7 (925) 012-34-90",
+        "email": "a.egorova@yandex.ru"
+      },
+      "address": {
+        "city": "Пермь",
+        "district": "Кировский",
+        "street": "ул. Юбилейная",
+        "house": "4",
+        "apartment": "27"
+      }
+    },
+    {
+      "id": "P033",
+      "full_name": "Медведев Виктор Андреевич",
+      "age": 61,
+      "sex": "male",
+      "weight_kg": 94,
+      "height_cm": 174,
+      "chronic_diseases": ["Гипертония", "Сахарный диабет 2 типа", "Хронический бронхит", "Простатит"],
+      "contacts": {
+        "phone": "+7 (926) 123-45-02",
+        "email": "v.medvedev@mail.ru"
+      },
+      "address": {
+        "city": "Пермь",
+        "district": "Дзержинский",
+        "street": "ул. Профсоюзная",
+        "house": "36",
+        "apartment": "71"
+      }
+    },
+    {
+      "id": "P034",
+      "full_name": "Комарова София Владимировна",
+      "age": 33,
+      "sex": "female",
+      "weight_kg": 63,
+      "height_cm": 168,
+      "chronic_diseases": ["Мигрень", "Вегетососудистая дистония"],
+      "contacts": {
+        "phone": "+7 (933) 234-56-13",
+        "email": "s.komarova@gmail.com"
+      },
+      "address": {
+        "city": "Пермь",
+        "district": "Ленинский",
+        "street": "ул. Больничная",
+        "house": "13",
+        "apartment": "49"
+      }
+    },
+    {
+      "id": "P035",
+      "full_name": "Алексеев Павел Дмитриевич",
+      "age": 46,
+      "sex": "male",
+      "weight_kg": 113,
+      "height_cm": 183,
+      "chronic_diseases": ["Ожирение", "Гипертония", "Жировой гепатоз", "Остеохондроз"],
+      "contacts": {
+        "phone": "+7 (927) 345-67-24",
+        "email": "p.alekseev@yandex.ru"
+      },
+      "address": {
+        "city": "Пермь",
+        "district": "Орджоникидзевский",
+        "street": "ул. Железнодорожная",
+        "house": "28",
+        "apartment": "85"
+      }
+    },
+    {
+      "id": "P036",
+      "full_name": "Денисова Вероника Игоревна",
+      "age": 25,
+      "sex": "female",
+      "weight_kg": 57,
+      "height_cm": 166,
+      "chronic_diseases": ["Астма"],
+      "contacts": {
+        "phone": "+7 (934) 456-78-35",
+        "email": "v.denisova@mail.ru"
+      },
+      "address": {
+        "city": "Пермь",
+        "district": "Свердловский",
+        "street": "ул. Новая",
+        "house": "10",
+        "apartment": "33"
+      }
+    },
+    {
+      "id": "P037",
+      "full_name": "Яковлев Станислав Олегович",
+      "age": 68,
+      "sex": "male",
+      "weight_kg": 79,
+      "height_cm": 171,
+      "chronic_diseases": ["Гипертония", "ИБС", "Простатит", "Остеоартроз", "Катаракта"],
+      "contacts": {
+        "phone": "+7 (928) 567-89-46",
+        "email": "s.yakovlev@gmail.com"
+      },
+      "address": {
+        "city": "Пермь",
+        "district": "Ленинский",
+        "street": "ул. Рабочая",
+        "house": "39",
+        "apartment": "6"
+      }
+    },
+    {
+      "id": "P038",
+      "full_name": "Зайцева Кристина Александровна",
+      "age": 36,
+      "sex": "female",
+      "weight_kg": 107,
+      "height_cm": 164,
+      "chronic_diseases": ["Ожирение", "Гипертония", "Варикозное расширение вен"],
+      "contacts": {
+        "phone": "+7 (935) 678-90-57",
+        "email": "k.zaitseva@yandex.ru"
+      },
+      "address": {
+        "city": "Пермь",
+        "district": "Индустриальный",
+        "street": "ул. Северная",
+        "house": "17",
+        "apartment": "120"
+      }
+    },
+    {
+      "id": "P039",
+      "full_name": "Баранов Тимофей Викторович",
+      "age": 21,
+      "sex": "male",
+      "weight_kg": 71,
+      "height_cm": 179,
+      "chronic_diseases": ["Гастрит"],
+      "contacts": {
+        "phone": "+7 (929) 789-01-68",
+        "email": "t.baranov@mail.ru"
+      },
+      "address": {
+        "city": "Пермь",
+        "district": "Кировский",
+        "street": "ул. Спортивная",
+        "house": "1",
+        "apartment": "14"
+      }
+    },
+    {
+      "id": "P040",
+      "full_name": "Филиппова Раиса Павловна",
+      "age": 74,
+      "sex": "female",
+      "weight_kg": 73,
+      "height_cm": 157,
+      "chronic_diseases": ["Гипертония", "ИБС", "Остеопороз", "Катаракта"],
+      "contacts": {
+        "phone": "+7 (910) 890-12-79",
+        "email": "r.filippova@yandex.ru"
+      },
+      "address": {
+        "city": "Пермь",
+        "district": "Дзержинский",
+        "street": "ул. Кооперативная",
+        "house": "55",
+        "apartment": "1"
+      }
+    },
+    {
+      "id": "P041",
+      "full_name": "Матвеев Илья Сергеевич",
+      "age": 30,
+      "sex": "male",
+      "weight_kg": 81,
+      "height_cm": 182,
+      "chronic_diseases": ["Остеохондроз"],
+      "contacts": {
+        "phone": "+7 (936) 901-23-90",
+        "email": "i.matveev@gmail.com"
+      },
+      "address": {
+        "city": "Пермь",
+        "district": "Орджоникидзевский",
+        "street": "ул. Зеленая",
+        "house": "20",
+        "apartment": "58"
+      }
+    },
+    {
+      "id": "P042",
+      "full_name": "Антонова Полина Николаевна",
+      "age": 51,
+      "sex": "female",
+      "weight_kg": 98,
+      "height_cm": 163,
+      "chronic_diseases": ["Ожирение", "Гипертония", "Артроз", "Тиреоидит"],
+      "contacts": {
+        "phone": "+7 (930) 012-34-03",
+        "email": "p.antonova@mail.ru"
+      },
+      "address": {
+        "city": "Пермь",
+        "district": "Мотовилихинский",
+        "street": "ул. Полевая",
+        "house": "24",
+        "apartment": "96"
+      }
+    },
+    {
+      "id": "P043",
+      "full_name": "Калинин Артур Владимирович",
+      "age": 43,
+      "sex": "male",
+      "weight_kg": 89,
+      "height_cm": 178,
+      "chronic_diseases": ["Остеохондроз", "Гастрит"],
+      "contacts": {
+        "phone": "+7 (937) 123-45-14",
+        "email": "a.kalinin@yandex.ru"
+      },
+      "address": {
+        "city": "Пермь",
+        "district": "Свердловский",
+        "street": "ул. Строительная",
+        "house": "31",
+        "apartment": "73"
+      }
+    },
+    {
+      "id": "P044",
+      "full_name": "Герасимова Елизавета Олеговна",
+      "age": 18,
+      "sex": "female",
+      "weight_kg": 46,
+      "height_cm": 162,
+      "chronic_diseases": ["Анемия", "Вегетососудистая дистония"],
+      "contacts": {
+        "phone": "+7 (931) 234-56-25",
+        "email": "e.gerasimova@gmail.com"
+      },
+      "address": {
+        "city": "Пермь",
+        "district": "Ленинский",
+        "street": "ул. Пионерская",
+        "house": "6",
+        "apartment": "19"
+      }
+    },
+    {
+      "id": "P045",
+      "full_name": "Борисов Геннадий Иванович",
+      "age": 66,
+      "sex": "male",
+      "weight_kg": 91,
+      "height_cm": 173,
+      "chronic_diseases": ["Гипертония", "ИБС", "Сахарный диабет 2 типа", "Хронический бронхит", "Простатит"],
+      "contacts": {
+        "phone": "+7 (938) 345-67-36",
+        "email": "g.borisov@mail.ru"
+      },
+      "address": {
+        "city": "Пермь",
+        "district": "Индустриальный",
+        "street": "ул. Заводская",
+        "house": "42",
+        "apartment": "10"
+      }
+    },
+    {
+      "id": "P046",
+      "full_name": "Ковалева Алиса Дмитриевна",
+      "age": 34,
+      "sex": "female",
+      "weight_kg": 66,
+      "height_cm": 169,
+      "chronic_diseases": ["Хронический цистит", "Мигрень"],
+      "contacts": {
+        "phone": "+7 (932) 456-78-47",
+        "email": "a.kovaleva@yandex.ru"
+      },
+      "address": {
+        "city": "Пермь",
+        "district": "Кировский",
+        "street": "ул. Вокзальная",
+        "house": "15",
+        "apartment": "60"
+      }
+    },
+    {
+      "id": "P047",
+      "full_name": "Громов Валерий Александрович",
+      "age": 57,
+      "sex": "male",
+      "weight_kg": 104,
+      "height_cm": 175,
+      "chronic_diseases": ["Ожирение", "Гипертония", "Подагра", "Остеохондроз"],
+      "contacts": {
+        "phone": "+7 (939) 567-89-58",
+        "email": "v.gromov@gmail.com"
+      },
+      "address": {
+        "city": "Пермь",
+        "district": "Дзержинский",
+        "street": "ул. Привокзальная",
+        "house": "26",
+        "apartment": "115"
+      }
+    },
+    {
+      "id": "P048",
+      "full_name": "Панова Виктория Сергеевна",
+      "age": 28,
+      "sex": "female",
+      "weight_kg": 60,
+      "height_cm": 172,
+      "chronic_diseases": ["Хронический гастрит"],
+      "contacts": {
+        "phone": "+7 (933) 678-90-69",
+        "email": "v.panova@mail.ru"
+      },
+      "address": {
+        "city": "Пермь",
+        "district": "Ленинский",
+        "street": "ул. Садовая",
+        "house": "9",
+        "apartment": "41"
+      }
+    },
+    {
+      "id": "P049",
+      "full_name": "Карпов Леонид Петрович",
+      "age": 71,
+      "sex": "male",
+      "weight_kg": 83,
+      "height_cm": 169,
+      "chronic_diseases": ["Гипертония", "ИБС", "Простатит", "Остеопороз", "Глаукома", "Хронический бронхит"],
+      "contacts": {
+        "phone": "+7 (940) 789-01-80",
+        "email": "l.karpov@yandex.ru"
+      },
+      "address": {
+        "city": "Пермь",
+        "district": "Орджоникидзевский",
+        "street": "ул. Вишневая",
+        "house": "47",
+        "apartment": "9"
+      }
+    },
+    {
+      "id": "P050",
+      "full_name": "Киселева Арина Викторовна",
+      "age": 24,
+      "sex": "female",
+      "weight_kg": 55,
+      "height_cm": 164,
+      "chronic_diseases": ["Вегетососудистая дистония"],
+      "contacts": {
+        "phone": "+7 (934) 890-12-91",
+        "email": "a.kiseleva@gmail.com"
+      },
+      "address": {
+        "city": "Пермь",
+        "district": "Свердловский",
+        "street": "ул. Кленовая",
+        "house": "11",
+        "apartment": "36"
+      }
+    }
+  ]
+}
+
